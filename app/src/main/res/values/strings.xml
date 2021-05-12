@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVMRoom</string>
+    <string name="subscriber_name">Subscriber Name</string>
+    <string name="subscriber_email">Subscriber Email</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
+</resources>
